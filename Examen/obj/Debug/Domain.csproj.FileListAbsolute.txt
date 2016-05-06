@@ -1,0 +1,10 @@
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Examen\Examen\bin\Debug\Domain.dll
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Examen\Examen\bin\Debug\Domain.pdb
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Examen\Examen\bin\Debug\Core.dll
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Examen\Examen\bin\Debug\EntityFramework.dll
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Examen\Examen\bin\Debug\Core.pdb
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Examen\Examen\bin\Debug\EntityFramework.xml
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Examen\Examen\bin\Debug\es\EntityFramework.resources.dll
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Examen\Examen\obj\Debug\Domain.csprojResolveAssemblyReference.cache
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Examen\Examen\obj\Debug\Domain.dll
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Examen\Examen\obj\Debug\Domain.pdb

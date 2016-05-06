@@ -1,0 +1,7 @@
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Examen\Core\bin\Debug\Core.dll
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Examen\Core\bin\Debug\Core.pdb
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Examen\Core\bin\Debug\EntityFramework.dll
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Examen\Core\bin\Debug\EntityFramework.xml
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Examen\Core\bin\Debug\es\EntityFramework.resources.dll
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Examen\Core\obj\Debug\Core.dll
+C:\Users\admin\Documents\Visual Studio 2012\Projects\Examen\Core\obj\Debug\Core.pdb
